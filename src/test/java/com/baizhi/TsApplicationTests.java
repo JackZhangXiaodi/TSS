@@ -117,5 +117,10 @@ public class TsApplicationTests {
            System.out.println(document.get("name")+"|"+document.get("title")+"|"+document.get("content")+s);
         }
     }
+
+    @Test
+    public void test5(){
+
+    }
 }
 
